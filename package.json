@@ -1,0 +1,21 @@
+{
+  "name": "my-snippets",
+  "displayName": "my-snippets",
+  "description": "Simple bootstrap 4 snippets",
+  "version": "1.0.0",
+  "publisher": "davidatb",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
