@@ -4,7 +4,6 @@
   "description": "Simple bootstrap 4 snippets",
   "version": "1.0.0",
   "publisher": "davidatb",
-  "repository": {"https://github.com/davidatb/vs-code-extension"},
   "engines": {
     "vscode": "^1.58.0"
   },
